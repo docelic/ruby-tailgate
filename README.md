@@ -9,6 +9,7 @@ It is written in Ruby, it is text/terminal/console/TUI/CUI/CLI-based and it aims
 * Be extremely quick/efficient/convenient for the user
 * Be versatile such as blessed and blessed-contrib for Node.js
 * Be better than existing Ruby solutions, which are lagging behind
+* Do not reinvent core ideas; use established principles from Qt, STFL, etc.
 
 ## Features
 
