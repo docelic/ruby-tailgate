@@ -2,7 +2,7 @@
 
 "Ruby-tailgate" is a layout manager, event handler and widget library for creating innovative and elegant text-based UIs and applications with multiple windows.
 
-Is a written in Ruby, it is text/terminal/console/TUI/CUI/CLI-based and aiming to compete with Node.js 'blessed' and 'blessed-contrib'.
+It is written in Ruby, it is text/terminal/console/TUI/CUI/CLI-based and it aims to compete with Node.js 'blessed' and 'blessed-contrib'.
 
 ### Goals:
 
