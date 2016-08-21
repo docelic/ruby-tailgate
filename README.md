@@ -14,9 +14,10 @@ It is written in Ruby, it is text/terminal/console/TUI/CUI/CLI-based and it aims
 
 * Layout manager with automatic placement (like e.g. Qt), configurable widget expansion and sticking to borders
 * Layout manager is separate from drawing (you can use layout manager only, for calculating positions)
-* Resizing support
+* Window resizing support
 * Keyboard and mouse support
-* Completely object-oriented (no manual Curses or ANSI coloring/drawing work)
+* Completely object-oriented
+* High-level (no manual Curses or ANSI drawing or coloring)
 * Callbacks support (no need for manual updates)
 * Solid widget library
 * Wide-character support
