@@ -50,7 +50,7 @@ Of the above list, the following items do not work yet and are in development:
 There are other projects marginally related to this one.
 I am listing them here simply for comprehensiveness, not because they necessarily even serve the same purpose.
 
-* In Ruby (for curses or colors): ruby-curses, IO.console
+* In Ruby (for curses or colors): ruby-curses, IO.console, rainbow, colorize, paint
 * In Ruby (for text tables): text_layout, text-table, pretty_table, terminal-table
 * In Ruby (for CSS-like terminal layout engine): terminal-layout
 * In other languages: STFL, Curses::UI, urwid
